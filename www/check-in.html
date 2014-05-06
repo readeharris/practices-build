@@ -1,0 +1,65 @@
+<div class="wrapper" id="check-in">
+  <div id="prepare" ng-show="preparing">
+    <h2>
+      How does my {{ currentStep }} feel?
+    </h2>
+    <a class='button' ng-click='express()'>Continue</a>
+  </div>
+
+  <div id="express" ng-show="expressing">
+    <h2>
+      My {{ currentStep }} feels...
+    </h2>
+
+    <div class="{{ currentStep }}" id="express-options">
+      <div class="options" id="short" ng-show="checkInType == 'short'">
+        <div class="option" id="great" ng-click="evaluate('great')">
+          Great
+        </div>
+        <div class="option" id="good" ng-click="evaluate('good')">
+          Good
+        </div>
+        <div class="option" id="okay" ng-click="evaluate('okay')">
+          Okay
+        </div>
+        <div class="option" id="poor" ng-click="evaluate('poor')">
+          Poor
+        </div>
+        <div class="option" id="bad" ng-click="evaluate('bad')">
+          Bad
+        </div>
+      </div>
+
+      <div class="options" id="medium" ng-show="checkInType == 'medium'">
+        <div class="emotion" id="peaceful" ng-click="evaluate('peaceful')">
+          Peaceful
+        </div>
+        <div class="emotion" id="scared" ng-click="evaluate('scared')">
+          Scared
+        </div>
+        <div class="emotion" id="powerful" ng-click="evaluate('powerful')">
+          Powerful
+        </div>
+        <div class="emotion" id="agitated" ng-click="evaluate('agitated')">
+          Agitated
+        </div>
+        <div class="emotion" id="joyful" ng-click="evaluate('joyful')">
+          Joyful
+        </div>
+        <div class="emotion" id="sad" ng-click="evaluate('sad')">
+          Sad
+        </div>
+      </div>
+
+      <div class="options" id="long" ng-show="checkInType == 'long'">
+        <h3>
+          Enter one or two words to describe how your {{ currentStep }} feels.
+        </h3>
+        <p>
+          Tip: Say it out loud first.
+        </p>
+        <input id="expression" ng-model="expression" type="text" x-webkit-speech="x-webkit-speech" /><a class="button" ng-click="evaluate()">Continue</a>
+      </div>
+    </div>
+  </div>
+</div>

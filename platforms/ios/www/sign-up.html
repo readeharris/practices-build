@@ -1,0 +1,18 @@
+<h1>
+  Welcome!
+</h1>
+<h2>
+  Be inspired. Be very, very inspired.
+</h2>
+<form ua-signup="">
+  <input name="login" placeholder="Email" type="email" ua-is-email="" /><input name="password" placeholder="Password" type="password" /><button type="submit">Sign Up</button>
+  <p ng-show="loading">
+    <img src="https://app.userapp.io/img/ajax-loader-transparent.gif" />
+  </p>
+  <p ng-show="error">
+    {{ error.message }}
+  </p>
+</form>
+<p class="user-switch">
+  or <a href='/#/welcome'>sign in</a>
+</p>

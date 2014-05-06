@@ -1,0 +1,419 @@
+objc[1908]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-06 14:32:18.506 Practices[1908:70b] Cannot find executable for CFBundle 0xa683dd0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-06 14:32:18.513 Practices[1908:70b] Cannot find executable for CFBundle 0xa6a5bb0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-06 14:32:18.579 Practices[1908:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-06 14:32:18.605 Practices[1908:70b] Unlimited access to network resources
+2014-05-06 14:32:18.608 Practices[1908:70b] Fix applied for database locations?: YES
+2014-05-06 14:32:18.827 Practices[1908:70b] [CDVTimer][statusbar] 54.285049ms
+2014-05-06 14:32:18.827 Practices[1908:70b] [CDVTimer][TotalPluginStartup] 54.733038ms
+2014-05-06 14:32:18.834 Practices[1908:70b] active
+2014-05-06 14:32:18.919 Practices[1908:70b] Resetting plugins due to page load.
+2014-05-06 14:32:19.128 Practices[1908:70b] Finished load of: file:///Users/Clarity/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F6548B98-7DD3-4CB3-81A3-44C96026584E/Practices.app/www/index.html
+objc[2160]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-06 14:36:41.810 Practices[2160:70b] Cannot find executable for CFBundle 0xa287600 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-06 14:36:41.818 Practices[2160:70b] Cannot find executable for CFBundle 0xa372620 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-06 14:36:41.849 Practices[2160:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-06 14:36:41.854 Practices[2160:70b] Unlimited access to network resources
+2014-05-06 14:36:41.876 Practices[2160:70b] [CDVTimer][statusbar] 6.690025ms
+2014-05-06 14:36:41.877 Practices[2160:70b] [CDVTimer][TotalPluginStartup] 7.157028ms
+2014-05-06 14:36:41.881 Practices[2160:70b] active
+2014-05-06 14:36:41.969 Practices[2160:70b] Resetting plugins due to page load.
+2014-05-06 14:36:42.111 Practices[2160:70b] Finished load of: file:///Users/Clarity/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F6548B98-7DD3-4CB3-81A3-44C96026584E/Practices.app/www/index.html
+2014-05-06 14:40:36.606 Practices[2160:70b] active
+objc[2412]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-06 14:45:04.049 Practices[2412:70b] Cannot find executable for CFBundle 0xa95ab10 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-06 14:45:04.061 Practices[2412:70b] Cannot find executable for CFBundle 0xa62b370 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-06 14:45:04.091 Practices[2412:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-06 14:45:04.099 Practices[2412:70b] Unlimited access to network resources
+2014-05-06 14:45:04.129 Practices[2412:70b] [CDVTimer][statusbar] 9.187996ms
+2014-05-06 14:45:04.130 Practices[2412:70b] [CDVTimer][TotalPluginStartup] 9.696960ms
+2014-05-06 14:45:04.135 Practices[2412:70b] active
+2014-05-06 14:45:04.236 Practices[2412:70b] Resetting plugins due to page load.
+2014-05-06 14:45:04.393 Practices[2412:70b] Finished load of: file:///Users/Clarity/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F6548B98-7DD3-4CB3-81A3-44C96026584E/Practices.app/www/index.html
+objc[2594]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-06 14:45:36.981 Practices[2594:70b] Cannot find executable for CFBundle 0xa297810 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-06 14:45:36.986 Practices[2594:70b] Cannot find executable for CFBundle 0xb39cfd0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-06 14:45:37.012 Practices[2594:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-06 14:45:37.018 Practices[2594:70b] Unlimited access to network resources
+2014-05-06 14:45:37.039 Practices[2594:70b] [CDVTimer][statusbar] 5.961001ms
+2014-05-06 14:45:37.040 Practices[2594:70b] [CDVTimer][TotalPluginStartup] 6.407022ms
+2014-05-06 14:45:37.043 Practices[2594:70b] active
+2014-05-06 14:45:37.074 Practices[2594:70b] Resetting plugins due to page load.
+2014-05-06 14:45:37.173 Practices[2594:70b] Finished load of: file:///Users/Clarity/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F6548B98-7DD3-4CB3-81A3-44C96026584E/Practices.app/www/index.html
+2014-05-06 14:45:41.537 Practices[2594:70b] active
+objc[2789]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-06 14:45:51.076 Practices[2789:70b] Cannot find executable for CFBundle 0xa389900 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-06 14:45:51.084 Practices[2789:70b] Cannot find executable for CFBundle 0xa483110 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-06 14:45:51.128 Practices[2789:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-06 14:45:51.137 Practices[2789:70b] Unlimited access to network resources
+2014-05-06 14:45:51.168 Practices[2789:70b] [CDVTimer][statusbar] 8.331954ms
+2014-05-06 14:45:51.169 Practices[2789:70b] [CDVTimer][TotalPluginStartup] 8.903027ms
+2014-05-06 14:45:51.174 Practices[2789:70b] active
+2014-05-06 14:45:51.276 Practices[2789:70b] Resetting plugins due to page load.
+2014-05-06 14:45:51.384 Practices[2789:70b] Finished load of: file:///Users/Clarity/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F6548B98-7DD3-4CB3-81A3-44C96026584E/Practices.app/www/index.html
+objc[2996]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-06 14:46:38.592 Practices[2996:70b] Cannot find executable for CFBundle 0xa286830 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-06 14:46:38.597 Practices[2996:70b] Cannot find executable for CFBundle 0xa2a4a50 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-06 14:46:38.624 Practices[2996:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-06 14:46:38.631 Practices[2996:70b] Unlimited access to network resources
+2014-05-06 14:46:38.658 Practices[2996:70b] [CDVTimer][statusbar] 7.920027ms
+2014-05-06 14:46:38.659 Practices[2996:70b] [CDVTimer][TotalPluginStartup] 8.458972ms
+2014-05-06 14:46:38.664 Practices[2996:70b] active
+2014-05-06 14:46:38.761 Practices[2996:70b] Resetting plugins due to page load.
+2014-05-06 14:46:38.879 Practices[2996:70b] Finished load of: file:///Users/Clarity/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F6548B98-7DD3-4CB3-81A3-44C96026584E/Practices.app/www/index.html
+2014-05-06 14:46:41.489 Practices[2996:70b] active
+objc[3199]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-06 14:46:58.934 Practices[3199:70b] Cannot find executable for CFBundle 0xa7af510 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-06 14:46:58.941 Practices[3199:70b] Cannot find executable for CFBundle 0xa7ca6d0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-06 14:46:58.966 Practices[3199:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-06 14:46:58.975 Practices[3199:70b] Unlimited access to network resources
+2014-05-06 14:46:59.001 Practices[3199:70b] [CDVTimer][statusbar] 7.544994ms
+2014-05-06 14:46:59.002 Practices[3199:70b] [CDVTimer][TotalPluginStartup] 8.046031ms
+2014-05-06 14:46:59.006 Practices[3199:70b] active
+2014-05-06 14:46:59.106 Practices[3199:70b] Resetting plugins due to page load.
+2014-05-06 14:46:59.243 Practices[3199:70b] Finished load of: file:///Users/Clarity/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F6548B98-7DD3-4CB3-81A3-44C96026584E/Practices.app/www/index.html
+objc[3397]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-06 14:47:30.542 Practices[3397:70b] Cannot find executable for CFBundle 0xa27dd00 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-06 14:47:30.550 Practices[3397:70b] Cannot find executable for CFBundle 0xba9a390 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-06 14:47:30.588 Practices[3397:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-06 14:47:30.596 Practices[3397:70b] Unlimited access to network resources
+2014-05-06 14:47:30.624 Practices[3397:70b] [CDVTimer][statusbar] 7.250965ms
+2014-05-06 14:47:30.624 Practices[3397:70b] [CDVTimer][TotalPluginStartup] 7.777989ms
+2014-05-06 14:47:30.629 Practices[3397:70b] active
+2014-05-06 14:47:30.733 Practices[3397:70b] Resetting plugins due to page load.
+2014-05-06 14:47:30.877 Practices[3397:70b] Finished load of: file:///Users/Clarity/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F6548B98-7DD3-4CB3-81A3-44C96026584E/Practices.app/www/index.html
+objc[3602]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-06 14:47:54.362 Practices[3602:70b] Cannot find executable for CFBundle 0xa349e40 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-06 14:47:54.370 Practices[3602:70b] Cannot find executable for CFBundle 0xa365290 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-06 14:47:54.415 Practices[3602:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-06 14:47:54.457 Practices[3602:70b] Unlimited access to network resources
+2014-05-06 14:47:54.485 Practices[3602:70b] [CDVTimer][statusbar] 7.712007ms
+2014-05-06 14:47:54.485 Practices[3602:70b] [CDVTimer][TotalPluginStartup] 8.181989ms
+2014-05-06 14:47:54.490 Practices[3602:70b] active
+2014-05-06 14:47:54.588 Practices[3602:70b] Resetting plugins due to page load.
+2014-05-06 14:47:54.699 Practices[3602:70b] Finished load of: file:///Users/Clarity/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F6548B98-7DD3-4CB3-81A3-44C96026584E/Practices.app/www/index.html
+2014-05-06 14:48:06.670 Practices[3602:70b] active
+2014-05-06 14:48:09.872 Practices[3602:70b] active
+2014-05-06 14:48:12.076 Practices[3602:70b] active
+objc[3903]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-06 14:52:55.655 Practices[3903:70b] Cannot find executable for CFBundle 0xb5938f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-06 14:52:55.664 Practices[3903:70b] Cannot find executable for CFBundle 0xa5712c0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-06 14:52:55.693 Practices[3903:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-06 14:52:55.699 Practices[3903:70b] Unlimited access to network resources
+2014-05-06 14:52:55.722 Practices[3903:70b] [CDVTimer][statusbar] 7.030964ms
+2014-05-06 14:52:55.723 Practices[3903:70b] [CDVTimer][TotalPluginStartup] 7.734001ms
+2014-05-06 14:52:55.726 Practices[3903:70b] active
+2014-05-06 14:52:55.762 Practices[3903:70b] Resetting plugins due to page load.
+2014-05-06 14:52:55.853 Practices[3903:70b] Finished load of: file:///Users/Clarity/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F6548B98-7DD3-4CB3-81A3-44C96026584E/Practices.app/www/index.html
+objc[4206]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-06 14:54:58.987 Practices[4206:70b] Cannot find executable for CFBundle 0xa34e100 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-06 14:54:58.996 Practices[4206:70b] Cannot find executable for CFBundle 0xa6303a0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-06 14:54:59.036 Practices[4206:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-06 14:54:59.044 Practices[4206:70b] Unlimited access to network resources
+2014-05-06 14:54:59.071 Practices[4206:70b] [CDVTimer][statusbar] 7.648945ms
+2014-05-06 14:54:59.071 Practices[4206:70b] [CDVTimer][TotalPluginStartup] 8.188963ms
+2014-05-06 14:54:59.076 Practices[4206:70b] active
+2014-05-06 14:54:59.287 Practices[4206:70b] Resetting plugins due to page load.
+2014-05-06 14:54:59.404 Practices[4206:70b] Finished load of: file:///Users/Clarity/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F6548B98-7DD3-4CB3-81A3-44C96026584E/Practices.app/www/index.html
+objc[4424]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-06 14:59:25.760 Practices[4424:70b] Cannot find executable for CFBundle 0xbc54b40 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-06 14:59:25.765 Practices[4424:70b] Cannot find executable for CFBundle 0xa463b50 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-06 14:59:25.789 Practices[4424:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-06 14:59:25.795 Practices[4424:70b] Unlimited access to network resources
+2014-05-06 14:59:25.821 Practices[4424:70b] [CDVTimer][statusbar] 6.923020ms
+2014-05-06 14:59:25.821 Practices[4424:70b] [CDVTimer][TotalPluginStartup] 7.615983ms
+2014-05-06 14:59:25.828 Practices[4424:70b] active
+2014-05-06 14:59:25.859 Practices[4424:70b] Resetting plugins due to page load.
+2014-05-06 14:59:25.957 Practices[4424:70b] Finished load of: file:///Users/Clarity/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F6548B98-7DD3-4CB3-81A3-44C96026584E/Practices.app/www/index.html
+2014-05-06 14:59:26.952 Practices[4424:70b] active
+objc[4596]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-06 15:00:32.071 Practices[4596:70b] Cannot find executable for CFBundle 0xc09dc40 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-06 15:00:32.077 Practices[4596:70b] Cannot find executable for CFBundle 0xa5db320 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-06 15:00:32.099 Practices[4596:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-06 15:00:32.104 Practices[4596:70b] Unlimited access to network resources
+2014-05-06 15:00:32.126 Practices[4596:70b] [CDVTimer][statusbar] 6.242990ms
+2014-05-06 15:00:32.127 Practices[4596:70b] [CDVTimer][TotalPluginStartup] 6.742954ms
+2014-05-06 15:00:32.130 Practices[4596:70b] active
+2014-05-06 15:00:32.167 Practices[4596:70b] Resetting plugins due to page load.
+2014-05-06 15:00:32.266 Practices[4596:70b] Finished load of: file:///Users/Clarity/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F6548B98-7DD3-4CB3-81A3-44C96026584E/Practices.app/www/index.html
+2014-05-06 15:00:33.296 Practices[4596:70b] active
+2014-05-06 15:01:32.043 Practices[4596:70b] active
+objc[5051]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-06 15:30:58.917 Practices[5051:70b] Cannot find executable for CFBundle 0xa67e290 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-06 15:30:58.924 Practices[5051:70b] Cannot find executable for CFBundle 0xa7bec10 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-06 15:30:58.961 Practices[5051:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-06 15:30:58.970 Practices[5051:70b] Unlimited access to network resources
+2014-05-06 15:30:58.997 Practices[5051:70b] [CDVTimer][statusbar] 6.736994ms
+2014-05-06 15:30:58.998 Practices[5051:70b] [CDVTimer][TotalPluginStartup] 7.204950ms
+2014-05-06 15:30:59.001 Practices[5051:70b] active
+2014-05-06 15:30:59.140 Practices[5051:70b] Resetting plugins due to page load.
+2014-05-06 15:30:59.489 Practices[5051:70b] Finished load of: file:///Users/Clarity/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F6548B98-7DD3-4CB3-81A3-44C96026584E/Practices.app/www/index.html#/reminders
+2014-05-06 15:31:08.995 Practices[5051:70b] active
+objc[5278]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-06 15:35:10.995 Practices[5278:70b] Cannot find executable for CFBundle 0xa673e10 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-06 15:35:10.999 Practices[5278:70b] Cannot find executable for CFBundle 0xa7b9ad0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-06 15:35:11.085 Practices[5278:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-06 15:35:11.093 Practices[5278:70b] Unlimited access to network resources
+2014-05-06 15:35:11.116 Practices[5278:70b] [CDVTimer][statusbar] 5.703032ms
+2014-05-06 15:35:11.116 Practices[5278:70b] [CDVTimer][TotalPluginStartup] 6.213009ms
+2014-05-06 15:35:11.120 Practices[5278:70b] active
+2014-05-06 15:35:11.253 Practices[5278:70b] Resetting plugins due to page load.
+2014-05-06 15:35:11.324 Practices[5278:70b] Finished load of: file:///Users/Clarity/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F6548B98-7DD3-4CB3-81A3-44C96026584E/Practices.app/www/index.html#/welcome
+2014-05-06 15:35:18.790 Practices[5278:70b] active
+2014-05-06 15:35:21.709 Practices[5278:70b] active
+2014-05-06 15:36:05.608 Practices[5278:70b] active
+2014-05-06 15:36:05.994 Practices[5278:70b] Simulator slow-motion animations are now on
+2014-05-06 15:36:49.111 Practices[5278:70b] active
+objc[5480]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-06 15:38:14.084 Practices[5480:70b] Cannot find executable for CFBundle 0xa28d900 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-06 15:38:14.090 Practices[5480:70b] Cannot find executable for CFBundle 0xba6d2c0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-06 15:38:14.114 Practices[5480:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-06 15:38:14.120 Practices[5480:70b] Unlimited access to network resources
+2014-05-06 15:38:14.140 Practices[5480:70b] [CDVTimer][statusbar] 5.523980ms
+2014-05-06 15:38:14.141 Practices[5480:70b] [CDVTimer][TotalPluginStartup] 5.955994ms
+2014-05-06 15:38:14.144 Practices[5480:70b] active
+2014-05-06 15:38:14.176 Practices[5480:70b] Resetting plugins due to page load.
+2014-05-06 15:38:14.252 Practices[5480:70b] Finished load of: file:///Users/Clarity/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F6548B98-7DD3-4CB3-81A3-44C96026584E/Practices.app/www/index.html#/welcome
+2014-05-06 15:38:16.856 Practices[5480:70b] active
+objc[5708]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-06 15:43:26.790 Practices[5708:70b] Cannot find executable for CFBundle 0x1022e600 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-06 15:43:26.807 Practices[5708:70b] Cannot find executable for CFBundle 0xa5276d0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-06 15:43:26.843 Practices[5708:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-06 15:43:26.850 Practices[5708:70b] Unlimited access to network resources
+2014-05-06 15:43:26.875 Practices[5708:70b] [CDVTimer][statusbar] 7.508993ms
+2014-05-06 15:43:26.876 Practices[5708:70b] [CDVTimer][TotalPluginStartup] 7.957995ms
+2014-05-06 15:43:26.880 Practices[5708:70b] active
+2014-05-06 15:43:26.967 Practices[5708:70b] Resetting plugins due to page load.
+2014-05-06 15:43:27.053 Practices[5708:70b] Finished load of: file:///Users/Clarity/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F6548B98-7DD3-4CB3-81A3-44C96026584E/Practices.app/www/index.html#/welcome
+objc[5899]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-06 15:43:50.635 Practices[5899:70b] Cannot find executable for CFBundle 0xc1b8510 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-06 15:43:50.638 Practices[5899:70b] Cannot find executable for CFBundle 0xc1bb210 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-06 15:43:50.671 Practices[5899:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-06 15:43:50.676 Practices[5899:70b] Unlimited access to network resources
+2014-05-06 15:43:50.697 Practices[5899:70b] [CDVTimer][statusbar] 5.375028ms
+2014-05-06 15:43:50.698 Practices[5899:70b] [CDVTimer][TotalPluginStartup] 5.837977ms
+2014-05-06 15:43:50.701 Practices[5899:70b] active
+2014-05-06 15:43:50.737 Practices[5899:70b] Resetting plugins due to page load.
+2014-05-06 15:43:50.987 Practices[5899:70b] Finished load of: file:///Users/Clarity/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F6548B98-7DD3-4CB3-81A3-44C96026584E/Practices.app/www/index.html#/welcome
+2014-05-06 15:43:51.556 Practices[5899:70b] active
+2014-05-06 15:43:55.851 Practices[5899:70b] Resetting plugins due to page load.
+2014-05-06 15:43:55.854 Practices[5899:70b] Failed to load webpage with error: Frame load interrupted
+objc[6080]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-06 15:44:41.628 Practices[6080:70b] Cannot find executable for CFBundle 0xa2f94f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-06 15:44:41.637 Practices[6080:70b] Cannot find executable for CFBundle 0xa7a6ae0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-06 15:44:41.674 Practices[6080:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-06 15:44:41.680 Practices[6080:70b] Unlimited access to network resources
+2014-05-06 15:44:41.699 Practices[6080:70b] [CDVTimer][statusbar] 5.342960ms
+2014-05-06 15:44:41.700 Practices[6080:70b] [CDVTimer][TotalPluginStartup] 5.773008ms
+2014-05-06 15:44:41.703 Practices[6080:70b] active
+2014-05-06 15:44:41.739 Practices[6080:70b] Resetting plugins due to page load.
+2014-05-06 15:44:41.928 Practices[6080:70b] Finished load of: file:///Users/Clarity/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F6548B98-7DD3-4CB3-81A3-44C96026584E/Practices.app/www/index.html#/welcome
+2014-05-06 15:44:46.027 Practices[6080:70b] active
+2014-05-06 15:44:47.400 Practices[6080:70b] Resetting plugins due to page load.
+2014-05-06 15:44:47.401 Practices[6080:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:44:48.038 Practices[6080:70b] Resetting plugins due to page load.
+2014-05-06 15:44:48.039 Practices[6080:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:44:49.388 Practices[6080:70b] Resetting plugins due to page load.
+2014-05-06 15:44:49.389 Practices[6080:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:44:49.974 Practices[6080:70b] Resetting plugins due to page load.
+2014-05-06 15:44:49.976 Practices[6080:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:44:50.475 Practices[6080:70b] Resetting plugins due to page load.
+2014-05-06 15:44:50.477 Practices[6080:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:44:51.010 Practices[6080:70b] Resetting plugins due to page load.
+2014-05-06 15:44:51.012 Practices[6080:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:44:51.593 Practices[6080:70b] Resetting plugins due to page load.
+2014-05-06 15:44:51.594 Practices[6080:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:44:52.052 Practices[6080:70b] Resetting plugins due to page load.
+2014-05-06 15:44:52.054 Practices[6080:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:44:59.340 Practices[6080:70b] Resetting plugins due to page load.
+2014-05-06 15:44:59.342 Practices[6080:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:45:00.192 Practices[6080:70b] Resetting plugins due to page load.
+2014-05-06 15:45:00.194 Practices[6080:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:45:00.780 Practices[6080:70b] Resetting plugins due to page load.
+2014-05-06 15:45:00.781 Practices[6080:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:45:01.230 Practices[6080:70b] Resetting plugins due to page load.
+2014-05-06 15:45:01.231 Practices[6080:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:45:01.763 Practices[6080:70b] Resetting plugins due to page load.
+2014-05-06 15:45:01.765 Practices[6080:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:45:02.248 Practices[6080:70b] Resetting plugins due to page load.
+2014-05-06 15:45:02.250 Practices[6080:70b] Failed to load webpage with error: Frame load interrupted
+objc[6269]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-06 15:46:08.113 Practices[6269:70b] Cannot find executable for CFBundle 0xa488550 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-06 15:46:08.118 Practices[6269:70b] Cannot find executable for CFBundle 0xb959bb0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-06 15:46:08.148 Practices[6269:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-06 15:46:08.154 Practices[6269:70b] Unlimited access to network resources
+2014-05-06 15:46:08.179 Practices[6269:70b] [CDVTimer][statusbar] 5.849004ms
+2014-05-06 15:46:08.180 Practices[6269:70b] [CDVTimer][TotalPluginStartup] 6.549001ms
+2014-05-06 15:46:08.184 Practices[6269:70b] active
+2014-05-06 15:46:08.220 Practices[6269:70b] Resetting plugins due to page load.
+2014-05-06 15:46:08.828 Practices[6269:70b] Finished load of: file:///Users/Clarity/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F6548B98-7DD3-4CB3-81A3-44C96026584E/Practices.app/www/index.html#/reminders
+2014-05-06 15:46:09.184 Practices[6269:70b] active
+objc[6462]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-06 15:54:40.494 Practices[6462:70b] Cannot find executable for CFBundle 0xb184130 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-06 15:54:40.499 Practices[6462:70b] Cannot find executable for CFBundle 0xa26e580 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-06 15:54:40.523 Practices[6462:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-06 15:54:40.528 Practices[6462:70b] Unlimited access to network resources
+2014-05-06 15:54:40.549 Practices[6462:70b] [CDVTimer][statusbar] 5.859017ms
+2014-05-06 15:54:40.550 Practices[6462:70b] [CDVTimer][TotalPluginStartup] 6.550968ms
+2014-05-06 15:54:40.553 Practices[6462:70b] active
+2014-05-06 15:54:40.585 Practices[6462:70b] Resetting plugins due to page load.
+2014-05-06 15:54:41.603 Practices[6462:70b] Finished load of: file:///Users/Clarity/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F6548B98-7DD3-4CB3-81A3-44C96026584E/Practices.app/www/index.html#/reminders
+2014-05-06 15:54:41.856 Practices[6462:70b] active
+objc[6646]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-06 15:56:01.724 Practices[6646:70b] Cannot find executable for CFBundle 0xba9ecd0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-06 15:56:01.729 Practices[6646:70b] Cannot find executable for CFBundle 0xbacc890 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-06 15:56:01.781 Practices[6646:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-06 15:56:01.787 Practices[6646:70b] Unlimited access to network resources
+2014-05-06 15:56:01.812 Practices[6646:70b] [CDVTimer][statusbar] 5.829990ms
+2014-05-06 15:56:01.812 Practices[6646:70b] [CDVTimer][TotalPluginStartup] 6.597996ms
+2014-05-06 15:56:01.816 Practices[6646:70b] active
+2014-05-06 15:56:01.896 Practices[6646:70b] Resetting plugins due to page load.
+2014-05-06 15:56:02.806 Practices[6646:70b] Finished load of: file:///Users/Clarity/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F6548B98-7DD3-4CB3-81A3-44C96026584E/Practices.app/www/index.html#/reminders
+objc[6828]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-06 15:56:20.930 Practices[6828:70b] Cannot find executable for CFBundle 0xa68a9d0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-06 15:56:20.935 Practices[6828:70b] Cannot find executable for CFBundle 0xa277ab0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-06 15:56:20.978 Practices[6828:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-06 15:56:20.983 Practices[6828:70b] Unlimited access to network resources
+2014-05-06 15:56:21.004 Practices[6828:70b] [CDVTimer][statusbar] 5.535007ms
+2014-05-06 15:56:21.004 Practices[6828:70b] [CDVTimer][TotalPluginStartup] 5.961955ms
+2014-05-06 15:56:21.011 Practices[6828:70b] active
+2014-05-06 15:56:21.065 Practices[6828:70b] Resetting plugins due to page load.
+2014-05-06 15:56:21.440 Practices[6828:70b] Finished load of: file:///Users/Clarity/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/3EE94022-994B-4B7E-AC4B-4F216982AFA5/Practices.app/www/index.html#/reminders
+objc[7010]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-06 15:57:32.165 Practices[7010:70b] Cannot find executable for CFBundle 0xa3855a0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-06 15:57:32.170 Practices[7010:70b] Cannot find executable for CFBundle 0xa3977a0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-06 15:57:32.197 Practices[7010:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-06 15:57:32.203 Practices[7010:70b] Unlimited access to network resources
+2014-05-06 15:57:32.228 Practices[7010:70b] [CDVTimer][statusbar] 5.514979ms
+2014-05-06 15:57:32.229 Practices[7010:70b] [CDVTimer][TotalPluginStartup] 5.943000ms
+2014-05-06 15:57:32.232 Practices[7010:70b] active
+2014-05-06 15:57:32.263 Practices[7010:70b] Resetting plugins due to page load.
+2014-05-06 15:57:33.196 Practices[7010:70b] active
+2014-05-06 15:57:33.278 Practices[7010:70b] Finished load of: file:///Users/Clarity/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/3EE94022-994B-4B7E-AC4B-4F216982AFA5/Practices.app/www/index.html#/reminders
+2014-05-06 15:57:34.543 Practices[7010:70b] Resetting plugins due to page load.
+2014-05-06 15:57:34.546 Practices[7010:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:57:35.772 Practices[7010:70b] Resetting plugins due to page load.
+2014-05-06 15:57:35.784 Practices[7010:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:57:36.861 Practices[7010:70b] Resetting plugins due to page load.
+2014-05-06 15:57:36.869 Practices[7010:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:57:37.403 Practices[7010:70b] Resetting plugins due to page load.
+2014-05-06 15:57:37.407 Practices[7010:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:57:37.882 Practices[7010:70b] Resetting plugins due to page load.
+2014-05-06 15:57:37.886 Practices[7010:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:57:38.317 Practices[7010:70b] Resetting plugins due to page load.
+2014-05-06 15:57:38.339 Practices[7010:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:57:38.739 Practices[7010:70b] Resetting plugins due to page load.
+2014-05-06 15:57:38.743 Practices[7010:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:57:39.120 Practices[7010:70b] Resetting plugins due to page load.
+2014-05-06 15:57:39.137 Practices[7010:70b] Failed to load webpage with error: Frame load interrupted
+objc[7193]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-06 15:58:09.105 Practices[7193:70b] Cannot find executable for CFBundle 0xa2dfcc0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-06 15:58:09.110 Practices[7193:70b] Cannot find executable for CFBundle 0xa2789e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-06 15:58:09.135 Practices[7193:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-06 15:58:09.140 Practices[7193:70b] Unlimited access to network resources
+2014-05-06 15:58:09.161 Practices[7193:70b] [CDVTimer][statusbar] 5.418003ms
+2014-05-06 15:58:09.161 Practices[7193:70b] [CDVTimer][TotalPluginStartup] 5.849957ms
+2014-05-06 15:58:09.165 Practices[7193:70b] active
+2014-05-06 15:58:09.198 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:09.567 Practices[7193:70b] Finished load of: file:///Users/Clarity/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/3EE94022-994B-4B7E-AC4B-4F216982AFA5/Practices.app/www/index.html#/reminders
+2014-05-06 15:58:11.171 Practices[7193:70b] active
+2014-05-06 15:58:12.348 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:12.354 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:13.480 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:13.487 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:14.388 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:14.410 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:14.882 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:14.892 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:15.304 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:15.309 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:15.661 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:15.665 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:16.108 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:16.112 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:16.522 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:16.526 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:16.968 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:16.980 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:17.406 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:17.414 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:17.794 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:17.798 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:18.408 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:18.416 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:18.845 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:18.850 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:19.298 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:19.319 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:19.631 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:19.633 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:21.725 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:21.738 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:22.305 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:22.325 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:22.919 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:22.942 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:25.685 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:25.697 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:26.188 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:26.197 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:26.719 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:26.723 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:27.230 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:27.234 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:27.613 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:27.618 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:28.011 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:28.016 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:28.353 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:28.354 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:28.689 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:28.690 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:29.279 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:29.288 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:58:29.803 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:58:29.808 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:59:49.248 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:59:49.259 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:59:50.244 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:59:50.264 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:59:51.058 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:59:51.082 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:59:51.552 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:59:51.563 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:59:52.063 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:59:52.068 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:59:52.492 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:59:52.493 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:59:53.170 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:59:53.184 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:59:53.792 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:59:53.802 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:59:54.351 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:59:54.367 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:59:54.840 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:59:54.855 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:59:55.316 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:59:55.317 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:59:55.892 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:59:55.897 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:59:56.569 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:59:56.573 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:59:57.136 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:59:57.142 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:59:57.670 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:59:57.675 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 15:59:58.022 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 15:59:58.029 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 16:00:19.917 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 16:00:19.919 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 16:00:20.780 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 16:00:20.782 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 16:00:21.362 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 16:00:21.363 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 16:00:22.808 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 16:00:22.811 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 16:00:23.519 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 16:00:23.521 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
+2014-05-06 16:00:23.798 Practices[7193:70b] Resetting plugins due to page load.
+2014-05-06 16:00:23.800 Practices[7193:70b] Failed to load webpage with error: Frame load interrupted
