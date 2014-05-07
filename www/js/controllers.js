@@ -11,42 +11,6 @@ practices.controller('ApplicationController', function($scope, user) {
     });
   };
 
-  $scope.initializePush = function() {
-    $(document).ready(function() {
-      var pushNotification = window.plugins.pushNotification;
-
-      var tokenHandler = function(result) {
-        console.log('device = ' + result);
-      }
-
-      var errorHandler = function(err) {
-        console.log(err);
-      }
-
-      var successHandler = function(result) {
-        console.log('Success');
-      }
-
-      if (device.platform == 'android' || device.platform == 'Android') {
-        pushNotification.register(
-          successHandler,
-          errorHandler, {
-            "senderID":"150054670823",
-            "ecb":"onNotificationGCM"
-          }
-        );
-      } else {
-        pushNotification.register(
-          tokenHandler,
-          errorHandler, {
-            "badge":"true",
-            "sound":"true",
-            "alert":"true",
-            "ecb":"onNotificationAPN"
-        });
-      }
-    });
-  };
 
   $scope.trackEvent = function(event_name, event_data) {
     user.getCurrent().then(function(currentUser) {
@@ -89,16 +53,21 @@ practices.controller('LogoutController', function(user, $location) {
 
 // -------------------------------------------------------
 // Reminders
+//
+// Currently the first step that does not require authentication,
+// so Push Notifications are initialized here.
+//
+// TODO: Refactor Push logic into a Factory.
+//
 
 practices.controller('RemindersController', function($scope, $location, user) {
-  // Method has multiple responsibilities! Refactor!
-  // Sets data or redirects onboarded users.
-  $scope.getCurrentUser = function() {
+  $scope.handleCurrentUser = function() {
     user.getCurrent().then(function(currentUser) {
-      if(currentUser.properties.reminder_frequency.value !== 0) {
-        $location.path('/lengths');
+      if(currentUserHasSetReminders()) { 
+        $scope.redirectRemindedUsers();
       } else {
         $scope.current_user_id = currentUser.user_id;
+        $scope.initializePush();
       }
     });
   };
@@ -106,15 +75,13 @@ practices.controller('RemindersController', function($scope, $location, user) {
   $scope.setReminderFrequency = function(frequency) {
     UserApp.User.save({
       "user_id": $scope.current_user_id,
-      "first_name": 'Colab',
       "properties": {
         "reminder_frequency": frequency
       }
     }, function(error, result) {
       if(!error) {
         $scope.trackEvent('Chose a Reminder Frequency', { "frequency": frequency });
-        $scope.alertTestUsers();
-        $location.path('/lengths');
+        $scope.redirectRemindedUsers();
         $scope.$apply();
       } else {
         $scope.error = error;
@@ -122,18 +89,72 @@ practices.controller('RemindersController', function($scope, $location, user) {
     });
   };
 
-  $scope.alertTestUsers = function() {
-    alert(
-      'TESTERS: This feature is not working yet. ' +
-      'Please set recurring reminders for yourself at the ' +
-      'frequency you selected. Thank you! :)'
-    );
+  $scope.initializePush = function() {
+    $(document).ready(function() {
+      var pushNotification = window.plugins.pushNotification;
+
+      var tokenHandler = function(result) {
+        $scope.setUserDevice('ios', result);
+      }
+
+      var errorHandler = function(err) {
+        console.log(err);
+      }
+
+      var successHandler = function(result) {
+        console.log('Success');
+      }
+
+      if (device.platform == 'android' || device.platform == 'Android') {
+        pushNotification.register(
+          successHandler,
+          errorHandler, {
+            "senderID":"150054670823",
+            "ecb":"onNotificationGCM"
+          }
+        );
+      } else {
+        pushNotification.register(
+          tokenHandler,
+          errorHandler, {
+            "badge":"true",
+            "sound":"true",
+            "alert":"true",
+            "ecb":"onNotificationAPN"
+        });
+      }
+    });
   };
+
+  $scope.setUserDevice = function(device_type, device_id) {
+    UserApp.User.save({
+      "user_id": $scope.current_user_id,
+      "properties": {
+        "device_type": device_type,
+        "device_id": device_id
+      }
+    }, function(error, result) {
+      if(!error) {
+        console.log('set device id for user ' + $scope.current_user_id);
+      } else {
+        $scope.error = error;
+      }
+    });
+  };
+
+  $scope.currentUserHasSetReminders = function() {
+    currentUser.properties.reminder_frequency.value !== 0;
+  };
+
+  $scope.redirectRemindedUsers = function() {
+    $location.path('/lengths');
+  };
+
 
   // -------------------------------------------------------
   // Initialize
 
-  $scope.getCurrentUser();
+  $scope.handleCurrentUser();
 });
 
 // -------------------------------------------------------
