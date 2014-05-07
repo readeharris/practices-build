@@ -11,6 +11,43 @@ practices.controller('ApplicationController', function($scope, user) {
     });
   };
 
+  $scope.initializePush = function() {
+    $(document).ready(function() {
+      var pushNotification = window.plugins.pushNotification;
+
+      var tokenHandler = function(result) {
+        console.log('device = ' + result);
+      }
+
+      var errorHandler = function(err) {
+        console.log(err);
+      }
+
+      var successHandler = function(result) {
+        console.log('Success');
+      }
+
+      if (device.platform == 'android' || device.platform == 'Android') {
+        pushNotification.register(
+          successHandler,
+          errorHandler, {
+            "senderID":"150054670823",
+            "ecb":"onNotificationGCM"
+          }
+        );
+      } else {
+        pushNotification.register(
+          tokenHandler,
+          errorHandler, {
+            "badge":"true",
+            "sound":"true",
+            "alert":"true",
+            "ecb":"onNotificationAPN"
+        });
+      }
+    });
+  };
+
   $scope.trackEvent = function(event_name, event_data) {
     user.getCurrent().then(function(currentUser) {
       var default_data = { "distinct_id": currentUser.user_id }
@@ -27,6 +64,7 @@ practices.controller('ApplicationController', function($scope, user) {
   // Initialize
 
   $scope.initializeFastClick();
+  $scope.initializePush();
 });
 
 // -------------------------------------------------------
